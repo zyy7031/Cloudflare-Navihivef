@@ -13,6 +13,8 @@
     "observability": {
         "enabled": true
     },
+// wrangler.jsonc
+"name": "wandering-star-05f0",
     // D1数据库绑定
     "d1_databases": [
         {
