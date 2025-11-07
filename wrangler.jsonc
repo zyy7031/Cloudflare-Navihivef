@@ -4,7 +4,7 @@
  */
 {
     "$schema": "node_modules/wrangler/config-schema.json",
-    "name": "navihivef",
+    "name": "Cloudflare-Navihivef",
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
     "assets": {
@@ -19,7 +19,7 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-dd",
+            "database_name": "navigation-db",
             "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
         }
     ],
